@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say hello
-        uses: ahmed225522/hello-world-docker-action@v1
+        uses: ahmed225522/newMcitCopyRepo@v1
         with:
           who-to-greet: '@octocat'
